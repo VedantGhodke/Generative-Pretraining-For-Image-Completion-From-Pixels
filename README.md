@@ -2,11 +2,9 @@
 
 # Generative Pre-Training For Image Completion From Pixels
 
-Code and models from the paper ["Generative Pretraining from Pixels"](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf).
-
 Supported Platforms:
 
-- Ubuntu 16.04
+- Ubuntu 16.04 or later
 
 ## Install
 
