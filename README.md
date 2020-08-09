@@ -1,6 +1,6 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+**Status:** Archive (Code is provided as-is, no updates expected)
 
-# image-gpt
+# Generative Pre-Training For Image Completion From Pixels
 
 Code and models from the paper ["Generative Pretraining from Pixels"](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf).
 
@@ -86,17 +86,9 @@ python src/run.py --eval --n_embd 1536 --n_head 16 --n_layer 48
 
 If your data is not in `/root/downloads/`, set `--ckpt_path` and `--data_path` manually. You should see that the test generative losses are 2.0895, 2.0614, and 2.0466, matching Figure 3 in the paper.
 
-### Citation
-
-Please use the following bibtex entry:
-```
-@article{chen2020generative,
-  title={Generative Pretraining from Pixels},
-  author={Chen, Mark and Radford, Alec and Child, Rewon and Wu, Jeff and Jun, Heewoo and Dhariwal, Prafulla and Luan, David and Sutskever, Ilya},
-  year={2020}
-}
-```
 
 ## License
 
 [Modified MIT](./LICENSE)
+
+
