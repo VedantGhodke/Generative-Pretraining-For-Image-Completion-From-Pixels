@@ -1,5 +1,3 @@
-**Status:** Archive (Code is provided as-is, no updates expected)
-
 # Generative Pre-Training For Image Completion From Pixels
 
 Supported Platforms:
